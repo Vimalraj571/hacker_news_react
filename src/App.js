@@ -1,6 +1,11 @@
+import Test from "./components/Test";
+
 function App() {
   return (
-    <div>react</div>
+    <>
+      <div>react</div>
+      <Test />
+    </>
   );
 }
 
