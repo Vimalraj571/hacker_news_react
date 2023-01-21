@@ -1,4 +1,4 @@
-import Test from "./components/Test";
+import Test from './components/Test'
 
 function App() {
   return (
@@ -6,7 +6,7 @@ function App() {
       <div>react</div>
       <Test />
     </>
-  );
+  )
 }
 
-export default App;
+export default App
