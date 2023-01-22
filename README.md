@@ -3,9 +3,10 @@ Hackernews UI with Hackernews API
 React,Redux,Reduc-Toolkit
 
 Functionality 
-  1.Search Post
-  2.View Post
-  3.View Comments
+
+  1. Search Post
+  2. View Post
+  3. View Comments
 
 Please Visit : https://sweet-pavlova-e9304d.netlify.app/
 
