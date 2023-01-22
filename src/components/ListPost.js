@@ -1,5 +1,5 @@
 import { useSelector } from 'react-redux'
-import SinglePost from './SinglePost'
+import SinglePostCard from './SinglePostCard'
 
 const ListPost = () => {
   const postList = useSelector((state) => state.post.posts)
@@ -19,9 +19,9 @@ const ListPost = () => {
             <div className="flex text-xl" style={{ alignItems: 'center', justifyContent: 'center' }}>List of post matched with the search query</div>
           </div>
           {postList.map((p) => (
-            <SinglePost post={p} key={p.objectID}>
+            <SinglePostCard post={p} key={p.objectID}>
               {p.title}
-            </SinglePost>
+            </SinglePostCard>
           ))}
         </>
       )}
