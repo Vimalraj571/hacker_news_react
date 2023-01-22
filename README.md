@@ -4,9 +4,9 @@ Tech: __React,Redux,Reduc-Toolkit__
 
 Functionality
 
-  1. Search Post with debounce
-  2. View Post with number of upvotes
-  3. View Comments
+    1. Search Post with debounce
+    2. View Post with number of upvotes
+    3. View Comments
 
 For Local Deployment
 
