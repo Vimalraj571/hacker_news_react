@@ -4,7 +4,7 @@ React,Redux,Reduc-Toolkit
 
 Functionality 
 
-  1. Search Post
+  1. Search Post with debounce
   2. View Post
   3. View Comments
 
