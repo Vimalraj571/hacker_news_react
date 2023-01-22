@@ -1,13 +1,22 @@
-Hackernews UI with Hackernews API
+### Hackernews UI with Hackernews API
 
-React,Redux,Reduc-Toolkit
+Tech: __React,Redux,Reduc-Toolkit__
 
-Functionality 
+Functionality
 
   1. Search Post with debounce
-  2. View Post
+  2. View Post with number of upvotes
   3. View Comments
 
-Please Visit : https://sweet-pavlova-e9304d.netlify.app/
+For Local Deployment
+
+- Clone the repo
+
+```
+yarn install
+yarn start
+```
+
+Else Please Visit : <https://sweet-pavlova-e9304d.netlify.app/>
 
 ![HackerNewsReact](https://user-images.githubusercontent.com/8166149/213906562-1fa9f914-cd99-4e97-b8f3-846c4466c8b2.png)
