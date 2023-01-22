@@ -10,10 +10,8 @@ const getAll = (query) => {
 }
 
 const getPostById = async (postId) => {
-  console.log("CALEDONG")
   const response = await axios.get(baseUrl + `items/${postId}`)
   return response.data
 }
 
-// eslint-disable-next-line import/no-anonymous-default-export
 export default { getAll, getPostById }
